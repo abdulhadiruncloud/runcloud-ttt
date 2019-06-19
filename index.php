@@ -1,5 +1,2 @@
 <?php
-
-echo "Selamat Hari Raya Aidilfitri"
-
-?>
+echo "Hadi hensem";
